@@ -1,0 +1,17 @@
+.Big-contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+.bar{
+    display: flex;
+    align-items: center;
+    padding: 1.5rem;
+}
+
